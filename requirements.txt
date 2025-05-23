@@ -1,0 +1,15 @@
+beautifulsoup4
+pandas
+numpy
+requests
+yfinance
+nltk
+xgboost
+matplotlib
+scikit-learn
+tqdm
+tensorflow
+keras
+ta
+svgling
+ipython
